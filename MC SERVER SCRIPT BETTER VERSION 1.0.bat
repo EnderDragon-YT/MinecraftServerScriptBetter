@@ -1,10 +1,10 @@
 @echo off
-title Minecraft Server Script But Better v1.0 ©EnderDragon_ 2021
+title Minecraft Server Script But Better v1.0 Â©EnderDragon_ 2021
 echo.
 echo Thanks for using my software if there are any bugs let me know
 echo.
 echo.
-echo ©EnderDragon_ 2021
+echo Â©EnderDragon_ 2021
 echo.
 echo.
 timeout /T 8 /NOBREAK > nul
@@ -24,7 +24,7 @@ if %menu%==exit goto No
 if %menu%==stop goto No
 cls
 echo.
-echo That is not a command built i have made yet
+echo That is not a command i have made yet
 echo.
 set /p pause="Press any key to Try again"
 goto A
